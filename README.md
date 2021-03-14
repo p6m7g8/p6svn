@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6svn:
+
+#### p6svn/init.zsh:
 
 - p6df::modules::p6svn::deps()
 - p6df::modules::p6svn::external::brew()
